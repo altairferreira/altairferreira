@@ -1,5 +1,6 @@
 - # Sobre mim
 - Meu Nome é **Altair Ferreira**
+- Meu email é [email](altair.ferreira@escola.pr.gov.br)
 - ### Eu estou estudando linguagens de programação, JavaScript e Scratch.
 - ### Estou aprendendo
 
